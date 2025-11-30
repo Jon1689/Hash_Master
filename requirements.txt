@@ -1,0 +1,2 @@
+customtkinter
+argon2-cffi
