@@ -40,7 +40,6 @@ You need Python 3.8+ installed.
     ```bash
     pip install -r requirements.txt
     ```
-    *(Note: You will need to create a `requirements.txt` file containing `customtkinter` and `argon2-cffi`.)*
 
 3.  **Ensure File Structure:**
     Verify your project has the following file structure:
