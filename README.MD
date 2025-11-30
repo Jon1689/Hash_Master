@@ -33,7 +33,7 @@ You need Python 3.8+ installed.
 1.  **Clone the Repository:**
     ```bash
     git clone https://github.com/Jon1689/Hash_Master.git
-    cd hash_master_project
+    cd Hash_Master
     ```
 
 2.  **Install Dependencies:**
@@ -45,7 +45,7 @@ You need Python 3.8+ installed.
 3.  **Ensure File Structure:**
     Verify your project has the following file structure:
     ```
-    hash_master_project/
+    Hash_Master/
     ├── main.py
     └── hasher.py
     ```
