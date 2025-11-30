@@ -32,7 +32,7 @@ You need Python 3.8+ installed.
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [YOUR_REPOSITORY_URL]
+    git clone https://github.com/Jon1689/Hash_Master.git
     cd hash_master_project
     ```
 
